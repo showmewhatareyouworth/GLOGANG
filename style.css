@@ -2,7 +2,7 @@ body {
     margin: 0;
     max-width: 100%;
     font-family: Arial, sans-serif;
-    background-color: rgb(248, 200, 200);
+    background-color: rgb(255, 255, 255);
     }
     .header {
         display: flex;
@@ -20,8 +20,8 @@ body {
     background-color: rgb(73, 4, 73);
     border-radius: 1vw;
     color: ghostwhite;
-    /* margin-top: 2vw;
-    margin-left: -50vw; */
+    margin-top: -0.75vw;
+    margin-right: vw;
     font-family: Russo One; 
 }
     .sign button {
@@ -30,15 +30,14 @@ body {
         background-color:rgb(73, 4, 73) ;
         border-radius: 1vw;
         color: ghostwhite;
-        /* margin-top: 2vw;
-        margin-left: -42vw; */
+        margin-top: -0.75vw;
         font-family: russo one;
     }
     .poisk input {
         justify-content: left;
         position: absolute;
-        margin-left: -25.5vw;
-        margin-top: 1.9vw;
+        margin-left: -35vw;
+        margin-top: -0.75vw;
         height: 1.5vw;
         width: 10vw;
     }
@@ -46,3 +45,82 @@ body {
         margin-top: 0.5vw;
         margin-left: -0.7vw;
     }
+    .category {
+        margin-top: 7vw;
+        text-align: center;
+        
+    }
+    .hoodie {
+        width: 12vw;
+        height: 14vw;
+        margin-top: 2vw;
+        margin-left: 4vw;
+        background-color: grey;
+        font-family: russo one;
+        font-size: 1.5vw;
+        transition: all 0.4s ease;
+        background: url(https://glogangworldwide.com/cdn/shop/files/Cream-Sage-Hoodie-01.jpg?v=1709584708&width=533);
+        background-size: 14.8vw;
+        background-position: center;
+        color: rgb(150, 106, 52);
+
+        
+    }
+    .hoodie:hover {
+        width: 14vw;
+        height: 16vw;
+        background-color: whitesmoke;
+    }
+    .tees {
+        width: 12vw;
+        height: 14vw;
+        margin-left: 1.5vw;
+        background-color: grey;
+        font-family: russo one;
+        font-size: 1.5vw;
+        transition: all 0.4s ease;
+        background: url(https://glogangworldwide.com/cdn/shop/files/Worldwide-Tee-BlackBlue-01.jpg?v=1708386222&width=533);
+        background-size: 13.2vw;
+        background-position: center;
+        color: rgb(66, 81, 122);
+    }
+    .tees:hover {
+        width: 14vw;
+        height: 16vw;
+        background-color: whitesmoke;
+    }    
+    .bottoms {
+        width: 12vw;
+        height: 14vw;
+        margin-left: 1.5vw;
+        background-color: grey;
+        font-size: 1.5vw;
+        font-family: russo one;
+        transition: all 0.4s ease;
+        background: url(https://glogangworldwide.com/cdn/shop/files/Multi-Denim-Flare-01.jpg?v=1707934697&width=533);
+        background-size: 14vw;
+        background-position: center;
+        color: cornflowerblue;
+    }
+    .bottoms:hover {
+        width: 14vw;
+        height: 16vw;
+    }
+    .outerwear {
+        width: 12vw;
+        height: 14vw;
+        margin-left: 1.5vw;
+        background-color: gray;
+        font-family: russo one;
+        font-size: 1.5vw;
+        transition: all 0.4s ease;
+        background: url(https://glogangworldwide.com/cdn/shop/products/Varsity-Jacket-Galaxy-1.png?v=1678214176&width=533);
+        background-size: 13.5vw;
+        background-position: center;
+        color: rgb(165, 42, 42);
+    }
+    .outerwear:hover {
+        width: 14vw;
+        height: 16vw;
+    }
+
