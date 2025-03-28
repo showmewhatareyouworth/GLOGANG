@@ -17,6 +17,7 @@ body {
         position: fixed;    
         top: 0;
         z-index: 1000;
+        background: linear-gradient(to right, #48350f, #3eb7fd);
     }
     .poisk input {
         justify-content: left;
@@ -25,6 +26,7 @@ body {
         margin-top: -0.75vw;
         height: 2vw;
         width: 20vw;
+        border-radius: 0.4vw;
     }
     .logo {
         margin-top: 0.75vw;
@@ -48,7 +50,7 @@ body {
         width: 12vw;
         height: 14vw;
         margin-left: 1.5vw;
-        transition: all 0.4s ease;
+        transition: all 0.8s ease;
         background: url(https://glogangworldwide.com/cdn/shop/files/GLORY-THORN-FULLZIP-HOODIE-01.jpg?v=1742327698&width=1946);
         background-size: 14vw;
         background-position: center;
@@ -68,7 +70,7 @@ body {
         background: url(https://glogangofficials.com/wp-content/uploads/2024/07/Glory-Olympics-Hoodie-Black.png);
         background-size: 14vw;
         background-position: center;
-        transition: all 0.4s ease;
+        transition: all 0.8s ease;
         border: none;
     }
     .black:hover {
@@ -86,7 +88,7 @@ body {
         background: url(https://glogangworldwide.com/cdn/shop/files/Heart-Glo-Full-Zip-Black-01.jpg?v=1739573721&width=823);
         background-size: 14vw;
         background-position: center;
-        transition: all 0.4s ease;
+        transition: all 0.8s ease;
         border: none;
     }
     .grey:hover {
@@ -104,7 +106,7 @@ body {
         background: url(https://glogangworldwide.com/cdn/shop/files/Heart-Glo-Full-Zip-Pink-01.jpg?v=1739573726&width=823);
         background-size: 14vw;
         background-position: center;
-        transition: all 0.4s ease;  
+        transition: all 0.8s ease;  
         border: none;
     }
     .pinq:hover {
@@ -122,7 +124,7 @@ body {
         background: url(https://glogangworldwide.com/cdn/shop/files/Glo-Christmas-Sweater-Green-01.jpg?v=1734568554&width=713);
         background-size: 14vw;
         background-position: center;
-        transition: all 0.4s ease;  
+        transition: all 0.8s ease;  
         border: none;
     }  
     .green:hover {
@@ -140,7 +142,7 @@ body {
         background: url(https://glogangofficials.com/wp-content/uploads/2024/07/Gangs-Dont-Die-Bones-Sweatpants-Grey.png);
         background-size: 14vw;
         background-position: center;
-        transition: all 0.4s ease;  
+        transition: all 0.8s ease;  
         border: none;
     }
     .whitepant:hover {
@@ -158,7 +160,7 @@ body {
         background: url(https://glogangofficials.com/wp-content/uploads/2024/07/Glo-Gang-Glo-Sun-Font-Sweatpants.png);
         background-size: 14vw;
         background-position: center;
-        transition: all 0.4s ease;  
+        transition: all 0.8s ease;  
         border: none;
     }
     .greenpant:hover {
@@ -176,7 +178,7 @@ body {
         background: url(https://glogangofficials.com/wp-content/uploads/2024/07/Almighty-Glo-Gang-Sweatpants-Red.png);
         background-size: 14vw;
         background-position: center;
-        transition: all 0.4s ease;  
+        transition: all 0.8s ease;  
         border: none;
     }
     .redpant:hover {
@@ -194,7 +196,7 @@ body {
         background: url(https://glogangofficials.com/wp-content/uploads/2024/07/Glo-Galaxy-Sweatpants-Vintage-Blue.png);
         background-size: 14vw;
         background-position: center;
-        transition: all 0.4s ease;  
+        transition: all 0.8s ease;  
         border: none;
     }
     .bluepant:hover {
@@ -212,7 +214,7 @@ body {
         background: url(https://glogangofficials.com/wp-content/uploads/2024/07/Glo-Gang-Flare-Tan-Sweatpants.png);
         background-size: 14vw;
         background-position: center;
-        transition: all 0.4s ease;  
+        transition: all 0.8s ease;  
         border: none;
     }
     .brownpant:hover {
@@ -230,7 +232,7 @@ body {
         background: url(https://glogangofficials.com/wp-content/uploads/2024/07/Glo-Gang-Satin-Bomber-Vintage-Green.png);
         background-size: 14vw;
         background-position: center;
-        transition: all 0.4s ease;  
+        transition: all 0.8s ease;  
         border: none;
     }
     .greenjack:hover {
@@ -248,7 +250,7 @@ body {
         background: url(https://glogangofficials.com/wp-content/uploads/2024/07/Glorious-Galaxy-Varsity-Jacket-Turquoise.png);
         background-size: 14vw;
         background-position: center;
-        transition: all 0.4s ease;  
+        transition: all 0.8s ease;  
         border: none;
     }
     .bluejack:hover {
@@ -266,7 +268,7 @@ body {
         background: url(https://glogangofficials.com/wp-content/uploads/2024/07/Glorious-Galaxy-Varsity-Jacket-Black.png);
         background-size: 14vw;
         background-position: center;
-        transition: all 0.4s ease;  
+        transition: all 0.8s ease;  
         border: none;
     }
     .darkjack:hover {
@@ -284,7 +286,7 @@ body {
         background: url(https://glogangofficials.com/wp-content/uploads/2024/07/Glorious-Thot-Varsity-Jacket-Red.png);
         background-size: 14vw;
         background-position: center;
-        transition: all 0.4s ease;  
+        transition: all 0.8s ease;  
         border: none;
     }
     .redjack:hover {
@@ -302,7 +304,7 @@ body {
         background: url(https://glogangofficials.com/wp-content/uploads/2024/07/Glorious-Thot-Varsity-Jacket-Black.png);
         background-size: 14vw;
         background-position: center;
-        transition: all 0.4s ease;  
+        transition: all 0.8s ease;  
         border: none;
     }
     .blackjack:hover {
@@ -313,7 +315,76 @@ body {
         background-size: 16vw;
         background-position: center;
     }
-    .accaunt {
-        float: right;
+    .whiteshoe {
+        width: 14vw;
+        height: 16vw;
+        margin-left: 1.5vw;
+        background: url(https://glogangworldwide.com/cdn/shop/files/Shoe-White-1.jpg?v=1696608987&width=823);
+        background-size: 14vw;
+        background-position: center;
+        transition: all 0.8s ease;  
+        border: none; 
+    }
+    .whiteshoe:hover {
+        width: 16vw;
+        height: 18vw;   
+        background-position: center;
+        background: url(https://glogangworldwide.com/cdn/shop/files/Shoe-White-2.jpg?v=1696608987&width=823);
+        background-size: 16vw;
+        background-position: center;
+    }
+    .blackshoe {
+        width: 14vw;
+        height: 16vw;
+        margin-left: 1.5vw;
+        background: url(https://glogangworldwide.com/cdn/shop/files/Shoe-Black-1.jpg?v=1696608990&width=713);
+        background-size: 14vw;
+        background-position: center;
+        transition: all 0.8s ease;  
+        border: none; 
+    }
+    .blackshoe:hover {
+        width: 16vw;
+        height: 18vw;   
+        background-position: center;
+        background: url(https://glogangworldwide.com/cdn/shop/files/Shoe-Black-2.jpg?v=1696608990&width=713);
+        background-size: 16vw;
+        background-position: center; 
+    }
+    .yellowshoe {
+        width: 14vw;
+        height: 16vw;
+        margin-left: 1.5vw;
+        background: url(https://glogangworldwide.com/cdn/shop/products/Yellow-shoe-3-final.jpg?v=1689724443&width=713);
+        background-size: 14vw;
+        background-position: center;
+        transition: all 0.8s ease;  
+        border: none;
+    }
+    .yellowshoe:hover {
+        width: 16vw;
+        height: 18vw;   
+        background-position: center;
+        background: url(https://glogangworldwide.com/cdn/shop/products/Yellow-shoe-1-final.jpg?v=1689724443&width=713);
+        background-size: 16vw;
+        background-position: center;
+    }
+    .redshoe {
+        width: 14vw;
+        height: 16vw;
+        margin-left: 1.5vw;
+        background: url(https://glogangworldwide.com/cdn/shop/products/red-shoe-7-final.jpg?v=1689724439&width=823);
+        background-size: 14vw;
+        background-position: center;
+        transition: all 0.8s ease;  
+        border: none; 
+    }
+    .redshoe:hover {
+        width: 16vw;
+        height: 18vw;   
+        background-position: center;
+        background: url(https://glogangworldwide.com/cdn/shop/products/red-shoe-5-final.jpg?v=1689724439&width=713);
+        background-size: 16vw;
+        background-position: center;
     }
 
