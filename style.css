@@ -10,20 +10,18 @@ body {
         justify-content: center;
         background-color: rgb(255, 255, 255);
         background-size: cover;
-        position: relative;
         animation: slideIn 5s;
         width: 100%;
-        align-items: center;
         position: fixed;    
-        top: 0;
-        z-index: 1000;
         background: linear-gradient(to right, #48350f, #3eb7fd);
+        margin-top: -8vw;
+        height: 8vw;
     }
     .poisk input {
         justify-content: left;
         position: absolute;
-        margin-left: -35vw;
-        margin-top: -0.75vw;
+        margin-left: 40vw;
+        margin-top: 3.6vw;
         height: 2vw;
         width: 20vw;
         border-radius: 0.4vw;
@@ -32,8 +30,12 @@ body {
         margin-top: 0.75vw;
         margin-left: 0.15vw;
     }
-    .login {
-        
+    .account {
+        margin-top: 4vw;
+    }
+    .hudi {
+        margin-top: 3.6vw;
+        margin-left: 50vw;
     }
     .back {
         background-position: center;
